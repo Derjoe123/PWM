@@ -1,0 +1,24 @@
+loop through lines with names
+{
+    check
+
+
+
+
+
+
+}
+loop through lines with pw
+{
+
+
+
+
+
+
+
+}
+
+
+
+
